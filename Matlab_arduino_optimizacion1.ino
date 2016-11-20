@@ -38,5 +38,5 @@ void loop() {
       analogWrite(9,0);
       analogWrite(12,0);
       analogWrite(11,velocidades[0]);
-      delay(20);
+      delay(30);
 }
